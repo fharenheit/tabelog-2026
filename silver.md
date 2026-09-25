@@ -5,8 +5,6 @@
 - Google Maps: 매장명 + 지역 기준 검색 링크
 - 예약 조건과 가격은 변경될 수 있으므로 실제 방문 전 확인 권장
 
-## 1–50
-
 | No. | 지역 | 업장 | 종류 | 대략 가격/1인 | 예약 | Google Maps |
 |---:|---|---|---|---:|---|---|
 | 1 | 효고 | Abon | 돈카츠·튀김 | ¥5,000–10,000 | 사전예약 확인 | [지도](https://www.google.com/maps/search/?api=1&query=Abon+Hyogo+Japan) |
@@ -59,11 +57,6 @@
 | 48 | 도쿄 | Joël Robuchon | 프렌치 | ¥30,000–60,000+ | 온라인/전화 | [지도](https://www.google.com/maps/search/?api=1&query=Joel+Robuchon+Tokyo+Ebisu) |
 | 49 | 후쿠이 | Jubei | 스시 | ¥20,000–40,000+ | 예약제 | [지도](https://www.google.com/maps/search/?api=1&query=Jubei+Sushi+Fukui+Japan) |
 | 50 | 도쿄 | Kabuto | 우나기 | ¥15,000–30,000+ | 초난관 | [지도](https://www.google.com/maps/search/?api=1&query=Kabuto+Unagi+Ikebukuro+Tokyo) |
-
-## 51–100
-
-| No. | 지역 | 업장 | 종류 | 대략 가격/1인 | 예약 | Google Maps |
-|---:|---|---|---|---:|---|---|
 | 51 | 사가 | kate cuore | 이탈리안 | ¥20,000–30,000+ | 예약제 | [지도](https://www.google.com/maps/search/?api=1&query=kate+cuore+Saga+Japan) |
 | 52 | 교토 | Kawaguchi | 일본요리 | ¥20,000–40,000+ | 예약제 | [지도](https://www.google.com/maps/search/?api=1&query=Kawaguchi+Kyoto+Japanese+Restaurant) |
 | 53 | 도쿄 | Kawamura | 육류요리 | ¥50,000+ | 초난관 | [지도](https://www.google.com/maps/search/?api=1&query=Ginza+Kawamura+Tokyo) |
@@ -114,11 +107,6 @@
 | 98 | 도쿄 | OHKUSA | 야키토리 | ¥15,000–25,000+ | 예약제 | [지도](https://www.google.com/maps/search/?api=1&query=OHKUSA+Yakitori+Tokyo) |
 | 99 | 도쿄 | Oishi | 프렌치 | ¥20,000–40,000+ | 예약제 | [지도](https://www.google.com/maps/search/?api=1&query=Oishi+French+Tokyo+Japan) |
 | 100 | 사가 | Oshige | 중화요리 | ¥15,000–30,000+ | 예약제 | [지도](https://www.google.com/maps/search/?api=1&query=Oshige+Saga+Restaurant+Japan) |
-
-## 101–160
-
-| No. | 지역 | 업장 | 종류 | 대략 가격/1인 | 예약 | Google Maps |
-|---:|---|---|---|---:|---|---|
 | 101 | 도치기 | Otowa restaurant | 프렌치 | ¥20,000–30,000+ | 예약 가능 | [지도](https://www.google.com/maps/search/?api=1&query=Otowa+Restaurant+Tochigi+Japan) |
 | 102 | 홋카이도 | PARCO FIERA | 이탈리안 | ¥20,000–30,000+ | 예약제 | [지도](https://www.google.com/maps/search/?api=1&query=PARCO+FIERA+Hokkaido+Japan) |
 | 103 | 도쿄 | PELLEGRINO | 이탈리안 | ¥40,000–60,000+ | 초난관 | [지도](https://www.google.com/maps/search/?api=1&query=PELLEGRINO+Tokyo+Japan) |
